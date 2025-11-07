@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "id": "ab10",
+      "fullName": "sdf",
+      "studentId": "456",
+      "dateOfBirth": "345",
+      "phoneNumber": "567",
+      "email": "kuteanu"
+    },
+    {
+      "fullName": "swaraj",
+      "studentId": "456",
+      "dateOfBirth": "678",
+      "phoneNumber": "453",
+      "email": "adbh678",
+      "id": "b1a1"
+    },
+    {
+      "fullName": "siddhesh anamika ansh",
+      "studentId": "456634",
+      "dateOfBirth": "2345",
+      "phoneNumber": "2345567",
+      "email": "2345gbvf",
+      "id": "e361"
+    },
+    {
+      "id": "d139",
+      "fullName": "shreeyu",
+      "studentId": "45666",
+      "dateOfBirth": "2025-11-07",
+      "phoneNumber": "4555",
+      "email": "34566"
+    },
+    {
+      "id": "657e",
+      "fullName": "ghyttttttla",
+      "studentId": "45",
+      "dateOfBirth": "0007-07-06",
+      "phoneNumber": "5",
+      "email": "4"
+    },
+    {
+      "id": "ca53",
+      "fullName": "lata",
+      "studentId": "3345",
+      "dateOfBirth": "0033-04-03",
+      "phoneNumber": "77",
+      "email": "445"
+    }
+  ]
+}
