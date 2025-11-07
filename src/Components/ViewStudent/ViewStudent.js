@@ -54,6 +54,7 @@ export default function ViewStudent() {
     return (
         <div className='mostOuterSectionOfViewStudent'>
             <div><input type='text' className='searchInput' placeholder='search' value={search} onChange={handleSearchChange} /></div>
+            <div className='viewStudentSection'>
             {
                 studentInfo
                     .filter((singleElement) =>
@@ -83,7 +84,7 @@ export default function ViewStudent() {
                         </div>
                     ))
             }
-
+            </div>
 
         </div>
     )
